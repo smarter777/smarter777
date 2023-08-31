@@ -4,13 +4,6 @@
   Senior Full Stack Developer
 </h4>
 
-<!-- <p align="center">
-  <a href="https://www.youtube.com/c/DevProTips?sub_confirmation=1">
-    </a>
-     <a href="https://github.com/corasphinx">
-    <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/corasphinx?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow"/></a>
-    </p> -->
-
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Wonderful%20Techi!%20;Nothing%20is%20Impossible!%20;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></img>
@@ -20,8 +13,8 @@
 ## About me:
 
 <p>
-As a senior software engineer, I have over 9 years of experience in solution design, architecture and application deployment for blockchain and web. During that time, I have been involved in several huge projects, obtained a wealth of experience and improved my skills. Deep understanding of building websites, database design, blockchain technology and project management with Git. Recognized for their ability to lead, build relationships with key people, and complete projects on time.
-As a fast learner and problem solver, I want to apply my software development skills as a senior software engineer and I like to learn new technology.
+I have a Bachelor's Degree in Software Engineering. I'm a Passionate Software Developer with extensive experience in Web Development. I have contributed to Dozens of successful projects so far, and I look forward to working on many more. I am comfortable providing my services for short and long-term projects.
+
 </p>
 
 <h2>My Major Skills</h2>
