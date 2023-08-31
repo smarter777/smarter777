@@ -19,7 +19,7 @@ Dear Everyone, I have a Bachelor's Degree in Software Engineering. I'm a Passion
 
 ▲ Language : JavaScript | TypeScript | PHP | Python | Java | Golang
 
-▲ Front-End : React.js | Next.js | Vue | Angular | Redux | Vue | JavaScript | TypeScript | Tailwind CSS
+▲ Front-End : React.js | Next.js | Vue | Angular | Redux | Vue | JavaScript | TypeScript | Tailwind CSS | HTML & CSS
 
 ▲ Back-End : Node.js | Express | Laravel | Django | Ruby on Rails
 
