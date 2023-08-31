@@ -13,7 +13,7 @@
 ## About me:
 
 <p>
-I have a Bachelor's Degree in Software Engineering. I'm a Passionate Software Developer with extensive experience in Web Development. I have contributed to Dozens of successful projects so far, and I look forward to working on many more. I am comfortable providing my services for short and long-term projects.
+Dear Everyone, I have a Bachelor's Degree in Software Engineering. I'm a Passionate Software Developer with extensive experience in Web Development. I have contributed to Dozens of successful projects so far, and I look forward to working on many more. I am comfortable providing my services for short and long-term projects.
 
 </p>
 
@@ -21,13 +21,14 @@ I have a Bachelor's Degree in Software Engineering. I'm a Passionate Software De
 
 ▲ Language : JavaScript | TypeScript | PHP | Python | Java | Golang
 
-▲ Blockchain : Ethereum | DAO | DEX | NFT | Marketplace | Token | DeFi | P2E | Web3.js | Ether.js | Truffle | Remix | HardHat
-
 ▲ Front-End : React.js | Next.js | Vue | Angular | Redux | Vue | JavaScript | TypeScript | Tailwind CSS
 
 ▲ Back-End : Node.js | Express | Laravel | Django | Ruby on Rails
 
 ▲ Database Manage : MySql | MongoDB | PostgreSQL | Firebase
+
+▲ Blockchain : Ethereum | DAO | DEX | NFT | Marketplace | Token | DeFi | P2E | Web3.js | Ether.js | Truffle | Remix | HardHat
+
 
 <br>
 
