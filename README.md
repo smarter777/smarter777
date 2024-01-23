@@ -23,6 +23,8 @@ Dear Everyone, I have a Bachelor's Degree in Software Engineering. I'm a Passion
 
 ▲ Back-End : Node.js | Express | Laravel | Django | Ruby on Rails
 
+▲ AWS Development : AWS | AWS Lambda | API Gateway | AWS Amplify
+
 ▲ Database Manage : MySql | MongoDB | PostgreSQL | Firebase
 
 ▲ Blockchain : Ethereum | Solidity | DAO | DEX | NFT | Marketplace | Token | DeFi | P2E | Web3.js | Ether.js | Truffle | Remix | HardHat
