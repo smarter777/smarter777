@@ -16,6 +16,7 @@ Dear Everyone, I have a Bachelor's Degree in Software Engineering. I'm a Passion
 
 
 <h2>My Major Skills</h2>
+▲ Blockchain : Solana | Ethereum | Solidity | DAO | DEX | NFT | Marketplace | Token | DeFi | P2E | Web3.js | Ether.js | Truffle | Remix | HardHat
 
 ▲ Language : JavaScript | TypeScript | PHP | Python | Java | Golang
 
@@ -26,8 +27,6 @@ Dear Everyone, I have a Bachelor's Degree in Software Engineering. I'm a Passion
 ▲ AWS Development : AWS | AWS Lambda | API Gateway | AWS Amplify
 
 ▲ Database Manage : MySql | MongoDB | PostgreSQL | Firebase
-
-▲ Blockchain : Solana | Ethereum | Solidity | DAO | DEX | NFT | Marketplace | Token | DeFi | P2E | Web3.js | Ether.js | Truffle | Remix | HardHat
 
 <br>
 
