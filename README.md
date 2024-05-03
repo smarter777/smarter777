@@ -5,7 +5,7 @@
 </h4>
 ## About me:
 <p>
-Dear Everyone, I have a Bachelor's Degree in Software Engineering. I'm a Passionate Software Developer with extensive experience in Web Development and AWS Development. I have contributed to Dozens of successful projects so far, and I look forward to working on many more. I am comfortable providing my services for short and long-term projects. In my work, I always choose technologies best-suited to the project or company I am working for. I'm continually improving my current skills and learning a new stack. I build responsive websites and apps of the highest possible standard using the latest technologies and trends.
+Dear Everyone, I have a Bachelor's Degree in Software Engineering. I'm a Passionate Software Developer with extensive experience in Web & Mobile Development and AWS Development. I have contributed to Dozens of successful projects so far, and I look forward to working on many more. I am comfortable providing my services for short and long-term projects. In my work, I always choose technologies best-suited to the project or company I am working for. I'm continually improving my current skills and learning a new stack. I build responsive websites and apps of the highest possible standard using the latest technologies and trends.
 </p>
 
 
